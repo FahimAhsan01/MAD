@@ -1,0 +1,1 @@
+bool reduceMotion = MediaQuery.of(context).disableAnimations;
